@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meteo</string>
+
+    <!-- Fast Dialog -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="dialog">Vous devez renseigner une ville</string>
+    <string name="dialog_network_required">Vous devez être connecté</string>
+    <string name="dialog_networks_required">Vous devez vous connecter à internet</string>
+
+</resources>
